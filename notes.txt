@@ -1,0 +1,58 @@
+*JULY PLAN*
+
+Monday — Python/Pandas (project)
+- Exactly what we've been doing.
+- Small improvement to the Apple pipeline.
+- Example:
+    - create a new transformation
+    - answer a business question
+    - improve readability
+    - refactor code
+
+Tuesday — SQL
+- Very small.
+- Maybe:
+    - one table
+    - one query
+    - one interview question
+- Example:
+    - Find the top 5 highest-paid employees.
+    Or
+    - Count customers by country.
+    20 minutes.
+
+Wednesday — Project Engineering
+- Things like:
+    - folder structure
+    - README improvements
+    - GitHub commits
+    - cleaning notebooks
+    - moving code into scripts
+
+Thursday — Python
+- Things like:
+    - loops
+    - dictionaries
+    - functions
+    - list comprehensions
+
+Friday — Interview Day
+- Example:
+    - What's ETL?
+    or
+    - Explain a boolean mask.
+    or
+    - What's the difference between validation and transformation?
+    or
+    - A tiny coding challenge.
+
+Saturday — Mini Challenge
+- Example:
+    - Here's a CSV.
+        - Find the biggest loss day.
+        - No step-by-step hints.
+        - Like a real work task.
+
+Sunday — Review
+- Very light.
+- We connect everything together.
